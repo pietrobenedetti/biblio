@@ -3,12 +3,19 @@ Installare vue:
 `npm install -g @vue/cli`
 
 Scaricare il progetto
+
 Entrare nella cartella /front-office
+
 Eseguire nel terminale:
-npm install
+
+`npm install`
+
 Entrare nella cartella /back-office
+
 Eseguire nel terminale:
-composer update
+
+`composer update`
+
 Collegamento DB
 
 Nella cartella /back-office cercare il file .env.example Creare file .env uguale al file .env.example, e modificare il nome del database DB_DATABASE = nome_db
