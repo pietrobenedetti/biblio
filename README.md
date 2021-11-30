@@ -1,8 +1,8 @@
-#*Installare vue:*
+**Installare vue:
 
 `npm install -g @vue/cli`
 
-#*Scaricare il progetto*
+**Scaricare il progetto
 
 Entrare nella cartella /front-office
 
@@ -16,18 +16,18 @@ Eseguire nel terminale:
 
 `composer update`
 
-#*Collegamento DB*
+**Collegamento DB
 
 Nella cartella /back-office cercare il file `.env.example`
-Creare file `.env` uguale al file `.env.example`, e modificare il nome del database *DB_DATABASE = nome_db*
+Creare file `.env` uguale al file `.env.example`, e modificare il nome del database **DB_DATABASE = nome_db
 
-#*Effettuare le migrazioni*
+**Effettuare le migrazioni
 
 Per creare la struttura del database, entrare nella cartella /back-office ed eseguire nel terminale:
 
 `php artisan migrate`
 
-#*Serve*
+**Serve
 
 Nella cartella /back-office eseguire nel terminale:
 
