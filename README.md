@@ -1,5 +1,7 @@
 Installare vue:
+
 `npm install -g @vue/cli`
+
 Scaricare il progetto
 Entrare nella cartella /front-office
 Eseguire nel terminale:
